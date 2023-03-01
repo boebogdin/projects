@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F703F295-12EF-4D97-8A13-16423D58A8DD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "757D52BC-1224-4261-AF8D-39E1ED1B16FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeForm-Search/API Structs/SearchApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "decodeResponse(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A972B6F-34FF-4D32-819D-B32FBAF95026"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeForm-Search/API Structs/SearchApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7642A88B-11C6-4B71-8405-2EBFEB032AE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeForm-Search/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEE67F89-467B-4163-9B47-F88CE029A4EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeForm-Search/DetailScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEE67F89-467B-4163-9B47-F88CE029A4EF - c8a512ec0882ad91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LifeForm_Search.DetailScreenViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "BEE67F89-467B-4163-9B47-F88CE029A4EF - c8a512ec0882ad91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LifeForm_Search.DetailScreenViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3DB2037-5FE1-452E-8E3F-26804B214F71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeForm-Search/DetailScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "sendPageRequest(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE14D314-02E6-4181-A4E5-4DC9E75605D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeForm-Search/API Structs/TaxonRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "decodeResponse(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06EF6AE5-E293-4AEB-8964-76334C111886"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeForm-Search/DetailScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "sendPageRequest(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "06EF6AE5-E293-4AEB-8964-76334C111886 - 7d6448e9ae393854"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in LifeForm_Search.DetailScreenViewController.sendPageRequest(id: Swift.Int) -&gt; ()"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "06EF6AE5-E293-4AEB-8964-76334C111886 - 42589c20d7e371b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async throws -&gt; () in LifeForm_Search.DetailScreenViewController.sendPageRequest(id: Swift.Int) -&gt; ()"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "06EF6AE5-E293-4AEB-8964-76334C111886 - b3fdc8664f38fc1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in LifeForm_Search.DetailScreenViewController.sendPageRequest(id: Swift.Int) -&gt; ()"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "06EF6AE5-E293-4AEB-8964-76334C111886 - 2b4909dfbfbbe239"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in LifeForm_Search.DetailScreenViewController.sendPageRequest(id: Swift.Int) -&gt; ()"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75972C4E-D252-4C9E-8B43-5EFC9125E3A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeForm-Search/DetailScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "getImage(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75972C4E-D252-4C9E-8B43-5EFC9125E3A0 - 194425a0948f384b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for LifeForm_Search.DetailScreenViewController.getImage(url: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "75972C4E-D252-4C9E-8B43-5EFC9125E3A0 - 194425a0948f384b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for LifeForm_Search.DetailScreenViewController.getImage(url: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7427E6F-B708-4239-8508-7639C310BF00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeForm-Search/DetailScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "sendPageRequest(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7427E6F-B708-4239-8508-7639C310BF00 - 48c366f10c569859"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LifeForm_Search.DetailScreenViewController.sendPageRequest(id: Swift.Int) -&gt; ()"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "A7427E6F-B708-4239-8508-7639C310BF00 - ffc817e2e5cc315"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async throws -&gt; () in LifeForm_Search.DetailScreenViewController.sendPageRequest(id: Swift.Int) -&gt; ()"
+                  moduleName = "LifeForm-Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tylerradke/Desktop/myProjects/LifeForm-Search/LifeForm-Search/DetailScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
